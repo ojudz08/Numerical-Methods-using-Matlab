@@ -5,7 +5,7 @@
 % OUTPUT:   Display a five-column table showing the number of terms, corresponding term,
 %           approximation value, true error (Et), and relative error (?t) in the output of the program.
 %
-% Paolo Gabriel Casas
+% Ojelle Rogero
 % 6/2/2015
 
 clc         % clear command window
