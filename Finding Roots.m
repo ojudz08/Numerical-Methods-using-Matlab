@@ -9,7 +9,7 @@
 %           4 - Newton-Raphson Method
 % OUTPUT:   Approximate value of the root and the percent relative error Ea.
 %
-% Paolo Gabriel Casas
+% Ojelle Rogero
 % 6/24/2015
 
 clc         % clear command window
